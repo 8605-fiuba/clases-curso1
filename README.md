@@ -1,4 +1,6 @@
-# Clases del curso 1 de la Asignatura 86.05/66.74 - Señales y Sistemas de la FIUBA
+# Clases del Curso 1 de la Asignatura 86.05/66.74 - Señales y Sistemas de la FIUBA
+
+Este repositorio contiene ejemplos y código utilizado durante las clases prácticas del Curso 1 de la asignatura (86.05/66.74) Señales y Sistemas.
 
 ## Instalación de las herramientas de trabajo
 
